@@ -1,0 +1,18 @@
+Curso de programação
+
+No visual studio 
+- Live Server: extensão que cria um servidor local, ele injeta um código javascript pra atualizar o arquivo
+
+Tentativas no javascript
+Para atribuir mais 1: ++
+
+Operador ternário ( :)
+
+length = tamanho da lista, quantidade de elementos da lista entre colchetes
+
+push- adiciona item ao fina lista (array) em javascript
+
+GitHub = cria um repositório com os arquivos daquele site/jogo/aplicação
+deploy = disponibilizar projeto para outras pessoas
+
+O GitHub é a plataforma onde vamos hospedar nosso código, enquanto o Git é a ferramenta onde conseguimos fazer o controle de versões do nosso código, registrar quais as mudanças foram feitas ao longo do tempo.

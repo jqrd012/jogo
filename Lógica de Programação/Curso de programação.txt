@@ -1,0 +1,13 @@
+Curso de programação
+
+No visual studio 
+- Live Server: extensão que cria um servidor local, ele injeta um código javascript pra atualizar o arquivo
+
+Tentativas no javascript
+Para atribuir mais 1: ++
+
+Operador ternário ( :)
+
+length = tamanho da lista, quantidade de elementos da lista entre colchetes
+
+push- adiciona item ao fina lista (array) em javascript
